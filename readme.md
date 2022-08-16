@@ -23,4 +23,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joabesv&hide=TeX&layout=compact)
 
 
-### Other ways to chat with me: [Linkedin](https://www.linkedin.com/in/Joabesv/)
+### Other ways to chat with me: [Website](https://joabesv.vercel.app/)
