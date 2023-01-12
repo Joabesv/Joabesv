@@ -19,8 +19,8 @@
 - 👾 B.Sc. Computer Science.
 - 🦀 learning Rust!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Joabesv&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joabesv&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joabesv&&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joabesv&hide=TeX&layout=compact)
 
 
 ### Other ways to chat with me: [Website](https://joabesv.vercel.app/)
