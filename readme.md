@@ -12,7 +12,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 ## About me:
-- 🎂 18 yo!
+- 🎂 19 yo!
 - 💖 Node.js 
 - 🌱 Currently working with Node and Typescript.
 - 👀 Doing things in the cloud
