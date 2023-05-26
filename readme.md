@@ -14,10 +14,10 @@
 ## About me:
 - 🎂 19 yo!
 - 💖 Node.js 
-- 🌱 Currently working with Node and Typescript.
+- 🌱 Currently working with Go and Vue.
 - 👀 Doing things in the cloud
 - 👾 B.Sc. Computer Science.
-- 🦀 learning Rust!
+- 🦀 learning Rust and Go!
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joabesv&&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joabesv&hide=TeX&layout=compact)
