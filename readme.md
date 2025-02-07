@@ -14,7 +14,7 @@
 ## About me:
 - 🎂 21 yo!
 - 💖 Node.js 
-- 🌱 Currently working with Go and Vue.
+- 🌱 Currently working with Go and Java.
 - 👀 Doing things in the cloud
 - 👾 B.Sc. Computer Science.
 - 🦀 learning Rust and Go!
